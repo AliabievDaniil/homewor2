@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    font-family: sans-serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ece9e0;
+    color: #656666;
+    border: 16px solid #ece9e0;
+    border-radius: 20px;
+}
+
+table th {
+    font-size: 18px;
+    padding: 10px;
+}
+
+table td {
+    background: #f5d7bf;
+    padding: 10px;
+}
